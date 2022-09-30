@@ -1,0 +1,21 @@
+.Calculater{
+    margin: 0 auto;
+    .sonuc{
+        text-align: center;
+        p{
+            font-family: "Cairo", sans-serif;
+            font-weight: 700;
+            font-size: 20px;
+        }
+        span{
+            color: red;;
+        }
+    }
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

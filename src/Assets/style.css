@@ -1,0 +1,20 @@
+.Calculater {
+  margin: 0 auto;
+}
+.Calculater .sonuc {
+  text-align: center;
+}
+.Calculater .sonuc p {
+  font-family: "Cairo", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.Calculater .sonuc span {
+  color: red;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}/*# sourceMappingURL=style.css.map */
