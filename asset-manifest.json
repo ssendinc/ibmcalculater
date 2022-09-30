@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ibmcalculater/static/css/main.a551956c.css",
+    "main.js": "/ibmcalculater/static/js/main.839bfd2b.js",
+    "static/media/bmi-asirisisman.png": "/ibmcalculater/static/media/bmi-asirisisman.ce14d9c129c79f1efb85.png",
+    "static/media/bmi-ideal.png": "/ibmcalculater/static/media/bmi-ideal.505abe9ab5f52f500be2.png",
+    "static/media/bmi-obez.png": "/ibmcalculater/static/media/bmi-obez.df18e1a0be8b0b291b0b.png",
+    "static/media/bmi-sisman.png": "/ibmcalculater/static/media/bmi-sisman.66d00f219640cba6aeba.png",
+    "static/media/bmi-zayif.png": "/ibmcalculater/static/media/bmi-zayif.3f1b6c7f97b1e1eceb94.png",
+    "index.html": "/ibmcalculater/index.html",
+    "main.a551956c.css.map": "/ibmcalculater/static/css/main.a551956c.css.map",
+    "main.839bfd2b.js.map": "/ibmcalculater/static/js/main.839bfd2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a551956c.css",
+    "static/js/main.839bfd2b.js"
+  ]
+}
